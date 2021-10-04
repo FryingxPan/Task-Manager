@@ -1,6 +1,6 @@
 # lista_de_tarefas
 
-A new Flutter project.
+This is an app you can be using to organize your tasks, very simple and easy to use.
 
 ## Getting Started
 
